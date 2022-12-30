@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "76c4a01ea1d22d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4466ccd9003d26e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a5791520c47b8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfcdc8aafded28b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus (CHONP) are the most important compounds for life..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e03efa5f3eebaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "73528ef312f6a0e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e38244557f46759c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "456aa0c9a4f87162",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b86f596501943562",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c801f87c4065cbe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a2aea4df3f6271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ffadef7e6a9941",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c07239cec050a77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7350b7707084b2e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8e697afcb9a53e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "20a5791520c47b8c",
+  "lastOpenFiles": [
+    "AP-Bio/Unit-1.md",
+    "Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus (CHONP) are the most important compounds for life..md",
+    "AP-Bio/Unit-2.md",
+    "AP-Bio/Unit Reviews.md",
+    "AP-Bio/Unit-4.md",
+    "Untitled.canvas",
+    "AP-Bio/Unit-3.md",
+    "AP-HuG/Unit-2.md",
+    "AP-HuG/Unit-1.md",
+    "index.md"
+  ]
+}

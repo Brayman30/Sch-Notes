@@ -13,8 +13,7 @@ AP Exam Score Percentage: 8-11%
 
 
 ## **Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus** (CHONP) are the most important compounds for life.
-
-Carbon Hydrogen and Oxygen are found in all, while Nitrogen is found only in Proteins and Nucleic Acids. Phosphorus can obly be found in Nucleic Acids as well as a special type of lipid called a **phospholipid** that makes up the cell membrane.
+![Carbon, Hydrogen, Oxygen, Nitrogen, and Phosphorus (CHONP) are the most important compounds for life.](Carbon,%20Hydrogen,%20Oxygen,%20Nitrogen,%20and%20Phosphorus%20(CHONP)%20are%20the%20most%20important%20compounds%20for%20life..md)
 
 ## Water
 
